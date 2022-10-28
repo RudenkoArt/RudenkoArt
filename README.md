@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi, I'm Artur 👋
 
-<!--
-**RudenkoArt/RudenkoArt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧑🏻‍💻 About me:
+- 🇺🇦 I'm Ukrainian
+- 🌱 I’m currently learning HTML, CSS & JavaScript
+- 💻 I'm looking forward to landing my first job as a front-end developer
+- 📫 How to reach me:
 
-Here are some ideas to get you started:
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artur-rudenko-93102223b/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rudnkoart@gmail.com)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ownhero2)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![codewars](https://www.codewars.com/users/RudenkoArt/badges/small) 
+
+
+
+
+
